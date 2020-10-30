@@ -1,0 +1,48 @@
+.header img{
+    margin-left: 100px;
+}
+.menu{
+    justify-content: end;
+    margin-left: 500px;
+}
+.header{
+    background-color: rgb(255, 228, 181);
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-color: teal;
+}
+.grid{
+    background-color: rgba(221, 160, 221, 0.671) ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    border-width: 10px;
+    border-color: tomato;
+}
+h2{
+    color: rgb(49, 150, 175);
+    margin-left: 120px;
+}
+p,li{
+    text-align: left;
+    color: teal;
+}
+p{
+    border-bottom: solid;
+    border-left: solid;
+    border-color: tomato;
+}
+.origami{
+    margin-top: 30px;
+    margin-right: 15px;
+    background-color: skyblue;
+}
+.grid img{
+    border: solid;
+    border-width: 1px;
+    border-radius: 15%;
+    border-color: black;
+    margin-left: 100px;
+}
